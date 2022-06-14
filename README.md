@@ -1,4 +1,4 @@
-#BMExercio01
+# BMExercicio01
 
 
 inicio modelo
@@ -53,3 +53,25 @@ public class Lampada{
 }
 
 fim do modelo
+
+---
+
+# BMExercicio02
+
+
+class TimeCampeonato{
+
+    String nomeTime;
+    boolean estaNoCampeonato;
+    int numeroJogadores;
+    String[] nomeJogadores = new String[numeroJogadores];
+    int numeroPartidas;
+    int numeroVitorias;
+    int numeroDerrotas;
+
+    void registraJogador(){}
+    void jogarPartida(){}
+    void mostrarStatus(){}
+    void mostrarJogadores(){}
+    
+}
