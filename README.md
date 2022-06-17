@@ -56,31 +56,6 @@ fim do modelo
 
 ---
 
-# BMExercicio02
-
-
-class TimeCampeonato{
-
-    String nomeTime;
-    boolean estaNoCampeonato;
-    int numeroJogadores;
-    String[] nomeJogadores = new String[numeroJogadores];
-    int numeroPartidas;
-    int numeroVitorias;
-    int numeroDerrotas;
-
-    void registraJogador(){}
-    void jogarPartida(){}
-    void mostrarStatus(){}
-    void mostrarJogadores(){}
-    
-}
-
-
-fim do modelo
-
----
-
 # BMExercicio07
 
 Erros: linha 1 o nome da classe não pode conter espaçamento.
